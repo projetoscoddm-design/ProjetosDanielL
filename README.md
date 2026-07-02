@@ -62,7 +62,7 @@ Me chamo Daniel luan lima de matos, tenho 28 anos e sou natural de São Gabriel 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-
+/>
 ### 📊 Estatísticas
 
 <p>
@@ -80,5 +80,4 @@ Me chamo Daniel luan lima de matos, tenho 28 anos e sou natural de São Gabriel 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=projetosdaniell&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
